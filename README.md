@@ -1,1 +1,1 @@
-[website code](https://github.com/MtalentTime/kritelectrics/tree/root)
+[website code](https://github.com/MtalentTime/kritelectrics/tree/main)
